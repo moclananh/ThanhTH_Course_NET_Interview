@@ -1,0 +1,14 @@
+D:\MyCourses\MyCourse\3.String\bin\Debug\net8.0\3.String.exe
+D:\MyCourses\MyCourse\3.String\bin\Debug\net8.0\3.String.deps.json
+D:\MyCourses\MyCourse\3.String\bin\Debug\net8.0\3.String.runtimeconfig.json
+D:\MyCourses\MyCourse\3.String\bin\Debug\net8.0\3.String.dll
+D:\MyCourses\MyCourse\3.String\bin\Debug\net8.0\3.String.pdb
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\3.String.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\3.String.AssemblyInfoInputs.cache
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\3.String.AssemblyInfo.cs
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\3.String.csproj.CoreCompileInputs.cache
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\3.String.dll
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\refint\3.String.dll
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\3.String.pdb
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\3.String.genruntimeconfig.cache
+D:\MyCourses\MyCourse\3.String\obj\Debug\net8.0\ref\3.String.dll

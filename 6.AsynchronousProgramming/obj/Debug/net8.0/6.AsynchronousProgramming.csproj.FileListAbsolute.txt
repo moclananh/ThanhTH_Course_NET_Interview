@@ -1,0 +1,14 @@
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\bin\Debug\net8.0\6.AsynchronousProgramming.exe
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\bin\Debug\net8.0\6.AsynchronousProgramming.deps.json
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\bin\Debug\net8.0\6.AsynchronousProgramming.runtimeconfig.json
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\bin\Debug\net8.0\6.AsynchronousProgramming.dll
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\bin\Debug\net8.0\6.AsynchronousProgramming.pdb
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\6.AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\6.AsynchronousProgramming.AssemblyInfoInputs.cache
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\6.AsynchronousProgramming.AssemblyInfo.cs
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\6.AsynchronousProgramming.csproj.CoreCompileInputs.cache
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\6.AsynchronousProgramming.dll
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\refint\6.AsynchronousProgramming.dll
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\6.AsynchronousProgramming.pdb
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\6.AsynchronousProgramming.genruntimeconfig.cache
+D:\MyCourses\MyCourse\6.AsynchronousProgramming\obj\Debug\net8.0\ref\6.AsynchronousProgramming.dll

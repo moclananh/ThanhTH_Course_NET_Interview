@@ -1,0 +1,2 @@
+﻿- Cắt bỏ hết các khoảng trắng dư ở đầu cuối chuỗi. Các từ cách nhau một khoảng trắng nếu phát hiện có nhiều hơn 1 khoảng trắng thì thực hiện cắt bỏ.
+- Viết hoa chữ cái đầu tiên của mỗi từ, các chữ cái tiếp theo thì viết thường.

@@ -1,0 +1,14 @@
+D:\MyCourses\MyCourse\2.ValueType_RefType\bin\Debug\net8.0\2.ValueType_RefType.exe
+D:\MyCourses\MyCourse\2.ValueType_RefType\bin\Debug\net8.0\2.ValueType_RefType.deps.json
+D:\MyCourses\MyCourse\2.ValueType_RefType\bin\Debug\net8.0\2.ValueType_RefType.runtimeconfig.json
+D:\MyCourses\MyCourse\2.ValueType_RefType\bin\Debug\net8.0\2.ValueType_RefType.dll
+D:\MyCourses\MyCourse\2.ValueType_RefType\bin\Debug\net8.0\2.ValueType_RefType.pdb
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\2.ValueType_RefType.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\2.ValueType_RefType.AssemblyInfoInputs.cache
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\2.ValueType_RefType.AssemblyInfo.cs
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\2.ValueType_RefType.csproj.CoreCompileInputs.cache
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\2.ValueType_RefType.dll
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\refint\2.ValueType_RefType.dll
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\2.ValueType_RefType.pdb
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\2.ValueType_RefType.genruntimeconfig.cache
+D:\MyCourses\MyCourse\2.ValueType_RefType\obj\Debug\net8.0\ref\2.ValueType_RefType.dll
