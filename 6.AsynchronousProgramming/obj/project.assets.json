@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyCourses\\MyCourse\\6.AsynchronousProgramming\\6.AsynchronousProgramming.csproj",
-      "projectName": "6.AsynchronousProgramming",
-      "projectPath": "D:\\MyCourses\\MyCourse\\6.AsynchronousProgramming\\6.AsynchronousProgramming.csproj",
+      "projectUniqueName": "D:\\MyCourses\\MyCourse\\6.AsynchronousProgramming\\1.AsynchronousProgramming.csproj",
+      "projectName": "1.AsynchronousProgramming",
+      "projectPath": "D:\\MyCourses\\MyCourse\\6.AsynchronousProgramming\\1.AsynchronousProgramming.csproj",
       "packagesPath": "C:\\Users\\Kristino\\.nuget\\packages\\",
       "outputPath": "D:\\MyCourses\\MyCourse\\6.AsynchronousProgramming\\obj\\",
       "projectStyle": "PackageReference",
