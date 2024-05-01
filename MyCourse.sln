@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.TodoAppConsole", "2.TodoA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ProductManagement_MVC_DatabaseFirst", "3.ProductManagement_MVC_DatabaseFirst\3.ProductManagement_MVC_DatabaseFirst.csproj", "{36B5C2FD-8C8C-42BB-9CF4-C210865DC934}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.StudentsManagement_MVC_CodeFirst", "4.StudentsManagement_MVC_CodeFirst\4.StudentsManagement_MVC_CodeFirst.csproj", "{061E7D51-6792-4AE5-8FE8-4A6B0021B4E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{36B5C2FD-8C8C-42BB-9CF4-C210865DC934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36B5C2FD-8C8C-42BB-9CF4-C210865DC934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36B5C2FD-8C8C-42BB-9CF4-C210865DC934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061E7D51-6792-4AE5-8FE8-4A6B0021B4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061E7D51-6792-4AE5-8FE8-4A6B0021B4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061E7D51-6792-4AE5-8FE8-4A6B0021B4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061E7D51-6792-4AE5-8FE8-4A6B0021B4E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{1F5367E0-2C1D-4E6B-9423-597481E78529} = {412087CC-A59D-4AFF-9D54-3BF7145332FF}
 		{641B23DD-C442-4423-A6B2-699C330097AE} = {412087CC-A59D-4AFF-9D54-3BF7145332FF}
 		{36B5C2FD-8C8C-42BB-9CF4-C210865DC934} = {412087CC-A59D-4AFF-9D54-3BF7145332FF}
+		{061E7D51-6792-4AE5-8FE8-4A6B0021B4E2} = {412087CC-A59D-4AFF-9D54-3BF7145332FF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21BC4599-7ADA-4FBE-8BD4-6D4310D6AB51}
